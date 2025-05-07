@@ -51,3 +51,9 @@
 * [ ] Does the essay have a clear and logical structure?
 * [ ] Is the essay focused and does everything relate back to the thesis statement?
 * [ ] Are there any grammatical errors, typos, or punctuation mistakes?
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
