@@ -1,4 +1,4 @@
-# 2025-05-07-General-Essay-Structure
+# General Essay Structure
 
 The general structure of a well-written essay typically consists of the following components:
 
