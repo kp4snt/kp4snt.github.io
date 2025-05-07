@@ -25,3 +25,9 @@ The general structure of a well-written essay typically consists of the followin
         * <font color=ff00ff>*Details*: Briefly summarize the main arguments or pieces of evidence you presented in the body paragraphs. This helps to reinforce your thesis and remind the reader of the key takeaways from your essay.</font>
     * <font color=cyan>Concluding Statement: A final thought or reflection that leaves a lasting impression on the reader.</font>
         * <font color=ff00ff>*Details*: This is your last chance to make an impact. You might offer a final thought on the topic, discuss the broader implications of your argument, or suggest a call to action. Avoid introducing new information here. Aim for a strong, memorable ending that leaves the reader thinking.</font>
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
