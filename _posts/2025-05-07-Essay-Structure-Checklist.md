@@ -1,4 +1,4 @@
-# 2025-05-07-Essay-Structure-Checklist
+# Essay Structure Checklist
 
 ## **Introduction**
 
